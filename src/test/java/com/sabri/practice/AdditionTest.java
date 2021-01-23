@@ -1,4 +1,4 @@
-package com.programming.techie;
+package com.sabri.practice;
 
 import org.junit.jupiter.api.*;
 

@@ -1,4 +1,4 @@
-package com.programming.techie;
+package com.sabri.practice;
 
 public class Contact {
     private String firstName;
